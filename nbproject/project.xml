@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.ruby.rubyproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/ruby-project/1">
+            <name>OpsWorks</name>
+            <source-roots>
+                <root id="src.activemq.dir"/>
+                <root id="src.mysql-client.dir"/>
+                <root id="src.hosts-file.dir"/>
+                <root id="src.salt-minion.dir"/>
+            </source-roots>
+            <test-roots/>
+        </data>
+    </configuration>
+</project>

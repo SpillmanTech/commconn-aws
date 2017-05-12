@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/src/awsopsworks/salt-minion/recipes/default.rb</file>
+            <file>file:/D:/src/awsopsworks/mysql-client/recipes/default.rb</file>
+            <file>file:/D:/src/awsopsworks/hosts-file/templates/default/hosts-file.erb</file>
+            <file>file:/D:/src/awsopsworks/packages/recipes/default.rb</file>
+            <file>file:/D:/src/awsopsworks/salt-minion/templates/default/minion.erb</file>
+            <file>file:/D:/src/awsopsworks/activemq/templates/activemq.service.erb</file>
+            <file>file:/D:/src/awsopsworks/activemq/recipes/default.rb</file>
+            <file>file:/D:/src/awsopsworks/salt-minion/templates/default/minion_id.erb</file>
+            <file>file:/D:/src/awsopsworks/hosts-file/recipes/default.rb</file>
+        </group>
+    </open-files>
+</project-private>
