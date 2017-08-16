@@ -20,7 +20,7 @@ bash "install salt-minion" do
   user "root"
   cwd "/"
   code <<-EOH
-    yum -y install https://repo.saltstack.com/yum/redhat/salt-repo-latest-1.el7.noarch.rpm
+    rpm --import http://repo.saltstack.com/yum/redhat/7/x86_64/2016.11/SALTSTACK-GPG-KEY.pub
     yum clean expire-cache
     yum -y install salt-minion
   EOH
